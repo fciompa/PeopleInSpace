@@ -87,7 +87,7 @@ object Deps {
 
         const val material3 = "androidx.compose.material3:material3:${Versions.composeMaterial3}"
         const val material3WindowSizeClass = "androidx.compose.material3:material3-window-size-class:${Versions.composeMaterial3}"
-        const val splashScreen = "androidx.core:core-splashscreen:1.0.0"
+        const val splashScreen = "androidx.core:core-splashscreen:1.0.1"
     }
 
     object Test {
