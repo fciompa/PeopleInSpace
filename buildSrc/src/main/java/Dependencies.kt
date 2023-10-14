@@ -30,7 +30,7 @@ object Versions {
     const val kotlinterGradle = "3.4.5"
 
     const val activityCompose = "1.8.0"
-    const val lifecycleKtx = "2.6.1"
+    const val lifecycleKtx = "2.6.2"
     const val lifecycleRuntimeKtx = lifecycleKtx
     const val lifecycleViewmodelKtx = lifecycleKtx
     const val osmdroidAndroid = "6.1.10"
